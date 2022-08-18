@@ -1,0 +1,35 @@
+_repo: Isis-unveiled-Volume-1-of-2-Science-A-master-key-to-mysteries-of-ancient-and-modern-science-a__68705
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blavatsky, H. P. (Helena Petrovna)
+    aliases:
+    - Blavatski, Yelena Petrovna
+    - Блаватская, Е. П. (Елена Петровна)
+    - Blavatski, H. P.
+    - Blavatsky, Helena Petrovna
+    birthdate: 1831
+    deathdate: 1891
+    gutenberg_agent_id: '2154'
+    url: http://www.gutenberg.org/2009/agents/2154
+    wikipedia: https://en.wikipedia.org/wiki/Helena_Blavatsky
+description: ''
+gutenberg_issued: '2022-08-07'
+identifiers:
+  gutenberg: '68705'
+language: en
+pgterms:marc905: 20170508194651blavatsky
+pgterms:marc906: '1878'
+pgterms:marc907: us
+production_note: David Edwards, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :J. W. Bouton,1878.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Isis unveiled, Volume 1 (of 2), Science: A master-key to mysteries of ancient
+  and modern science and theology'
+url: http://www.gutenberg.org/ebooks/68705
